@@ -3828,10 +3828,6 @@ a {
     display: block
 }
 
-.register_form_inner {
-    padding-top: 70px
-}
-
 .instagram_area {
     position: relative
 }
@@ -4827,13 +4823,4 @@ a {
         padding-top: 115px !important;
         padding-bottom: 115px !important
     }
-}
-.img-fluid1 {
-    height: 570px;
-}
-.img-fluid2 {
-    height: 570px;
-}
-.img-fluid3 {
-    height: 570px;
 }
